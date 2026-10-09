@@ -161,6 +161,7 @@ const config = {
       footer: {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} 虚舟实验室 (CaelLab).`,
+        //please read src/theme/Footer/index.js
       },
       prism: {
         theme: prismThemes.github,

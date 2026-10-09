@@ -39,7 +39,7 @@ CaelLabID 是一个面向青少年编程社区的开放平台。我们相信好�
 
 **Token 使用**
 
-- Token 有效期有限（Access Token 1 小时，Refresh Token 30 天），请及时刷新；
+- Token 有效期有限（Access Token 1 小时，Refresh Token 180 天），请及时刷新；
 - 不要在前端代码中存储 Token，建议在服务端管理；
 - 调用 `/api/userinfo` 等接口时，使用 `Authorization: Bearer` Header 方式传递 Token；
 - 如果需要撤销 Token，调用 `/oauth/revoke` 端点。
@@ -88,7 +88,7 @@ CaelLabID 是一个面向青少年编程社区的开放平台。我们相信好�
 
 作为青少年编程社区的一员，我们鼓励：
 
-- **互相帮助**：在开发过程中遇到问题，欢迎在 [虚舟实验室论坛](https://forum.xmuer.online/) 或 GitHub 上交流；
+- **互相帮助**：在开发过程中遇到问题，欢迎在 [虚舟实验室论坛](https://f.caellab.com/) 或 GitHub 上交流；
 - **分享经验**：如果你有好的接入经验或最佳实践，欢迎分享给其他开发者；
 - **反馈问题**：发现平台的 Bug 或有改进建议，请通过邮件或 Issue 告诉我们；
 - **开源贡献**：如果你基于 CaelLabID 开发了有趣的项目，欢迎开源分享。
@@ -116,4 +116,4 @@ CaelLabID 是一个面向青少年编程社区的开放平台。我们相信好�
 ---
 
 虚舟实验室 CaelLabID
-**2026 年 6 月 29 日**
+**2026 年 10 月 9 日（UTC）**

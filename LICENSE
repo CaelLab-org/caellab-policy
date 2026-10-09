@@ -1,121 +1,174 @@
-Creative Commons Legal Code
+CaelLab Zero Subject License
+Version 1
+September 30, 2026
+https://www.caellab.com/license/czs-v1
 
-CC0 1.0 Universal
+TERMS AND CONDITIONS
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+0. DEFINITIONS
 
-Statement of Purpose
+"License" means the CaelLab Zero Subject License, Version 1, whose text is
+published at https://www.caellab.com/license/czs-v1.txt, and any later
+version of it as defined in Section 6.
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+"Steward" means CaelLab, which publishes and maintains this License under
+https://www.caellab.com/license/, together with any successor that CaelLab
+names. Publishing this
+License does not make the Steward the Licensor of any Work; the Steward is the
+Licensor of a Work only if it has itself applied this License to that Work.
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+"Licensor" means the individual or legal entity that holds copyright in the
+Work and grants this License.
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+"You" and "Your" mean an individual or legal entity exercising rights under
+this License.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+"Work" means any copyrightable material to which the Licensor has attached
+this License, including software, source code, markup, stylesheets, scripts,
+configuration files, assets, documentation, text, articles, images, audio,
+video, and other creative works, whether in Source Code or in any other form.
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+"Source Code" means the preferred form of the Work for making modifications
+to it.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+"Modified Version" means any work based on or derived from the Work in which
+the Work has been translated, adapted, altered, or extended.
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+"Distribute" means to reproduce, publish, upload, transfer, or otherwise make
+the Work or a Modified Version available to any third party, in any medium.
 
-4. Limitations and Disclaimers.
+1. GRANT OF RIGHTS
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+The Licensor grants You a worldwide, non-exclusive, perpetual, irrevocable,
+royalty-free copyright license to use, reproduce, modify, adapt, translate,
+publish, Distribute, publicly display, publicly perform, sublicense, and
+otherwise exploit the Work and Modified Versions of it, in any medium, for any
+purpose, including commercial purposes.
+
+The exercise of these rights requires no notice, registration, payment, or
+other condition.
+
+2. NO OBLIGATIONS
+
+This License exists to keep the Work free and open. It imposes no condition on
+the exercise of the rights granted in Section 1, and it deliberately withholds
+the obligations that most open licences attach to those rights. In particular,
+You are not required to:
+
+    (a) give credit to the Licensor or to any author, or retain any copyright,
+        attribution, or license notice in the Work or in a Modified Version;
+    (b) identify the origin of the Work, or link to the Work or to this
+        License;
+    (c) state that You modified the Work, or identify what You changed;
+    (d) publish, license, or otherwise make available the Source Code of a
+        Modified Version, or any part of it; or
+    (e) license a Modified Version under this License or under any other
+        license.
+
+No condition of this License is implied by its wording, by any notice placed
+on the Work, or by the act of distributing the Work. You may license Your
+Modified Versions on any terms You choose, including proprietary terms.
+
+Keeping the notices, or naming the author, is welcome all the same: it is a
+courtesy, and it is how a commons stays alive. It is not a condition of this
+License, and nobody may require it of You.
+
+3. NO TRADEMARK OR PATENT LICENSE
+
+This License grants copyright rights only. The Licensor declines to grant any
+rights under patent, trademark, service mark, or trade name law: nothing in
+this License authorises the use of the names, marks, or logos of the Licensor
+or of CaelLab, whether to endorse a Modified Version, to promote it, or
+otherwise.
+
+Because this Section grants no rights, following it or not cannot affect the
+rights granted in Section 1.
+
+4. DISCLAIMER OF WARRANTY
+
+UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, THE LICENSOR
+PROVIDES THE WORK ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF
+ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY
+WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR
+FITNESS FOR A PARTICULAR PURPOSE. YOU ARE SOLELY RESPONSIBLE FOR DETERMINING
+THE APPROPRIATENESS OF USING OR REDISTRIBUTING THE WORK AND ASSUME ANY RISKS
+ASSOCIATED WITH YOUR EXERCISE OF PERMISSIONS UNDER THIS LICENSE.
+
+5. LIMITATION OF LIABILITY
+
+IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING
+NEGLIGENCE), CONTRACT, OR OTHERWISE, UNLESS REQUIRED BY APPLICABLE LAW (SUCH
+AS DELIBERATE AND GROSSLY NEGLIGENT ACTS) OR AGREED TO IN WRITING, SHALL THE
+LICENSOR BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT,
+SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING AS A
+RESULT OF THIS LICENSE OR OUT OF THE USE OR INABILITY TO USE THE WORK
+(INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE,
+COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR
+LOSSES), EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+6. LATER VERSIONS OF THIS LICENSE
+
+The Steward may publish revised or new versions of this License from time to
+time. Each version is given a distinguishing version number.
+
+A "later version" is a version of this License that meets all of the
+following:
+
+    (a) it is published by the Steward under https://www.caellab.com/license/,
+        or at a URL that the Steward names as the successor to that address;
+    (b) it carries a version number higher than the version You are
+        following; and
+    (c) the Steward designates it as a final release, and its version number
+        carries no suffix or qualifier such as "-alpha", "-beta", "-rc",
+        "-draft", "-preview", or "-experimental".
+
+Versions that are not final releases, including development, draft, preview,
+experimental, provisional, and modified versions, and versions released by
+anyone other than the Steward, are not later versions, whatever they are
+called.
+
+If the Work specifies that a later version of this License applies, such as
+"Version 1 or any later version", You may follow the terms of that version
+or the terms of any later version as defined above.
+
+If the Work specifies a version number and does not include "or any later
+version", You may follow only that version.
+
+7. ACCEPTANCE AND DURATION
+
+You are not required to accept this License, and no acceptance, signature, or
+other act is required in order to exercise the rights granted in Section 1.
+Those rights are granted unconditionally and irrevocably; this License does
+not terminate, and the Licensor may not revoke it.
+
+8. SEVERABILITY AND INTERPRETATION
+
+If any provision of this License is held to be unenforceable, that provision
+shall be reformed only to the extent necessary to make it enforceable, and
+the remaining provisions shall remain in full force and effect. Nothing in
+this License is intended to restrict any use of the Work that is permitted by
+applicable law without a license, including fair use and fair dealing. This
+License does not create any obligation on the part of the Licensor to provide
+support, maintenance, updates, or new versions of the Work.
+
+9. HOW TO APPLY THIS LICENSE
+
+To apply this License to Your Work, attach the following notice, replacing
+the bracketed fields with Your own information:
+
+    Copyright (c) [YEAR] [AUTHOR]
+    Licensed under the CaelLab Zero Subject License, Version 1.
+    Source: [URL]
+
+Attribution is not required by this License, so the notice above is a courtesy
+and not a condition. You may omit it, shorten it, or replace it with a notice
+of Your own. Adding "or any later version" is optional:
+
+    Licensed under the CaelLab Zero Subject License, Version 1 or any later
+    version.
+
+Only final versions published by the Steward under Section 6 can be followed
+this way. Leave the phrase out to keep recipients on this exact version.
+
+END OF TERMS AND CONDITIONS

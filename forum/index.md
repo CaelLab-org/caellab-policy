@@ -26,4 +26,8 @@ sidebar_label: 论坛介绍
 
 ---
 
-[虚舟实验室小论坛](https://forum.xmuer.online/)
+[虚舟实验室小论坛](https://f.caellab.com/)
+
+---
+
+*本页面最后更新于 2026 年 10 月 9 日（UTC）。*

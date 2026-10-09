@@ -34,3 +34,7 @@ CaelLabID 是虚舟实验室的统一身份认证系统。
 ### 联系方式
 
 📧 [id@caellab.com](mailto:id@caellab.com)
+
+---
+
+*本页面最后更新于 2026 年 10 月 9 日（UTC）。*

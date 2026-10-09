@@ -50,4 +50,4 @@ npm run build
 
 ## 许可
 
-本站文档以 [CC0 1.0](LICENSE) 公开发布，可自由使用、修改与再分发。署名信息参见站点页脚。
+本站文档以 [CaelLab Zero Subject License 1](LICENSE) 公开发布，可自由使用、修改与再分发，无需署名。许可正文：<https://www.caellab.com/license/czs-v1>

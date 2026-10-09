@@ -36,7 +36,7 @@ sidebar_label: 信任中心
 
 **传输加密**
 
-所有 *.caellab.com 及 caellab.com 域名均强制启用 HTTPS，防止数据在传输中被窃听或篡改。
+所有对外提供的服务均强制启用 HTTPS，防止数据在传输中被窃听或篡改。
 
 **存储安全**
 
@@ -46,7 +46,7 @@ sidebar_label: 信任中心
 
 **网络防护**
 
-我们使用 [Cloudflare](https://www.cloudflare.com/) 提供网络分发与安全防护。Cloudflare 可能收集匿名化访问数据用于威胁检测，详见 [隐私权政策](/public-policy/privacy-rights)。
+我们使用 [Cloudflare](https://www.cloudflare.com/) 提供网络分发与安全防护。Cloudflare 可能收集访问请求中携带的网络信息用于威胁检测，详见 [隐私权政策](/public-policy/privacy-rights)。
 
 ---
 
@@ -62,7 +62,7 @@ sidebar_label: 信任中心
 
 **透明共享**
 
-如需与第三方共享数据，我们会事先征得您的同意，或在 第三方信息共享清单 中公开说明。
+如需与第三方共享数据，我们会事先征得您的同意，或在各平台的第三方信息共享清单（如[官网](/www/third-party-sharing)、[CaelLabID](/id/third-party-sharing)）中公开说明。
 
 ---
 
@@ -102,4 +102,8 @@ sidebar_label: 信任中心
 
 📧 [report@caellab.com](mailto:report@caellab.com)
 
-我们重视每一份反馈，会在合理时间内评估并回复。
+我们重视每一份反馈，会在 7 个自然日内评估并回复。
+
+---
+
+*本页面最后更新于 2026 年 10 月 9 日（UTC）。*
