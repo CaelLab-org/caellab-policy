@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from '@docusaurus/Link';
 import {useThemeConfig} from '@docusaurus/theme-common';
 import FooterLinks from '@theme/Footer/Links';
 import FooterLogo from '@theme/Footer/Logo';
@@ -43,6 +44,18 @@ copyright={
       }}
     >
       法律文本不应限制传播，因此你可以随意地存档该页面、永久地保留这些信息，还可以被任何人用于学习、研究、更改后使用。虚舟实验室参与「自由知识运动」，这是一项旨在促进人类知识自由获取、使用、修改和分享的全球性社会与文化运动；反对过度限制的版权法律，倡导开放获取与知识共享。
+    </div>
+    <div
+      style={{
+        fontSize: '0.72em',
+        color: 'rgba(255,255,255,0.55)',
+        marginTop: '0.3rem',
+      }}
+    >
+      <Link
+        to="/about"
+        style={{color: 'rgba(255,255,255,0.75)', textDecoration: 'underline', textUnderlineOffset: '2px'}}
+      >关于</Link>
     </div>
   </div>
 }
