@@ -29,17 +29,8 @@ const platforms = [
     ],
   },
   {
-    title: 'XMUER 论坛',
-    domain: 'forum.xmuer.online',
-    links: [
-      {label: '隐私政策', to: '/forum/privacy'},
-      {label: '服务协议', to: '/forum/terms'},
-      {label: '社区守则', to: '/forum/community-guidelines'},
-    ],
-  },
-  {
-    title: 'XMUER Coding Community',
-    domain: 'coding.xmuer.online',
+    title: 'XMUER',
+    domain: 'forum.xmuer.online / coding.xmuer.online',
     links: [
       {label: '隐私政策', to: '/forum/privacy'},
       {label: '服务协议', to: '/forum/terms'},
