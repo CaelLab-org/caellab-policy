@@ -12,7 +12,7 @@ CaelLab Policy 是虚舟实验室（CaelLab）政策文档的统一入口，集�
 ## 文档的组织方式
 
 - **通用政策**：人权原则与隐私权政策，适用于所有平台；
-- **各平台政策**：官网、XMUER 论坛、CaelLabID 各自的隐私政策与协议文本；
+- **各平台政策**：官网、XMUER（论坛与 Coding Community）、CaelLabID 各自的隐私政策与协议文本；
 - **信任**：公益状态与诚信承诺。
 
 各平台的隐私政策与《虚舟实验室隐私权政策》共同构成完整约定。
@@ -32,6 +32,7 @@ CaelLab Policy 是虚舟实验室（CaelLab）政策文档的统一入口，集�
 - 通用事项与权利请求：[rights@caellab.com](mailto:rights@caellab.com)
 - 官网：[www@caellab.com](mailto:www@caellab.com)
 - XMUER 论坛：[forum@caellab.com](mailto:forum@caellab.com)
+- XMUER Coding Community：[xcc@caellab.com](mailto:xcc@caellab.com)
 - CaelLabID：[id@caellab.com](mailto:id@caellab.com)
 
 通过上述邮箱提出的请求，我们会在 7 个自然日内回应。也欢迎在 XMUER 论坛公开讨论：[https://forum.xmuer.online/](https://forum.xmuer.online/)

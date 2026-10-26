@@ -1,7 +1,7 @@
 ﻿// @ts-check
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  publicPolicySidebar: ['index', 'intro','privacy-rights'],
+  publicPolicySidebar: ['human-rights', 'privacy-rights'],
 };
 
 module.exports = sidebars;

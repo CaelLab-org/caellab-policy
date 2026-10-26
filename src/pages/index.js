@@ -8,7 +8,7 @@ const common = [
   {
     title: '人权原则',
     desc: '我们对用户基本权利的承诺与保障原则',
-    to: '/public-policy/intro',
+    to: '/public-policy/human-rights',
     items: ['言论自由', '隐私保护', '平等尊重'],
   },
   {
@@ -29,8 +29,17 @@ const platforms = [
     ],
   },
   {
-    title: '小论坛',
-    domain: 'f.caellab.com',
+    title: 'XMUER 论坛',
+    domain: 'forum.xmuer.online',
+    links: [
+      {label: '隐私政策', to: '/forum/privacy'},
+      {label: '服务协议', to: '/forum/terms'},
+      {label: '社区守则', to: '/forum/community-guidelines'},
+    ],
+  },
+  {
+    title: 'XMUER Coding Community',
+    domain: 'coding.xmuer.online',
     links: [
       {label: '隐私政策', to: '/forum/privacy'},
       {label: '服务协议', to: '/forum/terms'},

@@ -101,6 +101,19 @@ const config = {
         ],
       },
     ],
+    // Legacy path redirects
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          { from: '/public-policy/intro', to: '/public-policy/human-rights' },
+          { from: '/public-policy', to: '/public-policy/human-rights' },
+          { from: '/www', to: '/www/privacy' },
+          { from: '/forum', to: '/forum/privacy' },
+          { from: '/id', to: '/id/privacy' },
+        ],
+      },
+    ],
   ],
 
   themeConfig:
@@ -140,7 +153,7 @@ const config = {
             sidebarId: 'forumSidebar',
             docsPluginId: 'forum',
             position: 'left',
-            label: '论坛',
+            label: 'XMUER',
           },
           {
             type: 'docSidebar',

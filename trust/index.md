@@ -70,7 +70,7 @@ sidebar_label: 信任中心
 
 **人权保障**
 
-我们尊重每一位用户的基本权利。详见 [人权原则](/public-policy/intro)。
+我们尊重每一位用户的基本权利。详见 [人权原则](/public-policy/human-rights)。
 
 ---
 
